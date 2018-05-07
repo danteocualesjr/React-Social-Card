@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    flex-wrap: wrap;
+}
+.avatar {
+    width: 10%;
+    height: 10%;
+}
+.header-title {
+    display: flex;
+    width: 80%;
+}
+.header1 {
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.header2 {
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.header3 {
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.header-text {
+    margin-left: 65px;
+}
